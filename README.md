@@ -7,7 +7,7 @@ Este projeto visa popularizar a Fórmula E através de um site interativo e gami
 
 # Integrantes
 - RM 558638 - Gabriel Guilherme Leste
-- RM 555798 - Glauco Heitor Gonçalves
+- RM 555978 - Glauco Heitor Gonçalves
 - RM 556452 - Otávio Santos Lima
 - RM 554787 - Victor Hugo de Paula
 
