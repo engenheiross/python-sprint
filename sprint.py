@@ -30,7 +30,7 @@ def escrever_csv(dados, nome_arquivo, cabecalho):
 # Função para carregar dados de um arquivo CSV usando o módulo csv
 def carregar_dados(caminho_arquivo):
     try:
-        with open(caminho_arquivo, mode='r', newline='') as arquivo_csv:
+        with open(caminho_arquivo, mode='r', newline='', encoding='utf-8') as arquivo_csv:
             leitor_csv = csv.DictReader(arquivo_csv)
             dados = list(leitor_csv)
             return dados
