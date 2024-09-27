@@ -1,14 +1,14 @@
 # Fórmula E - Site Interativo e Gamificado
 
-#Equipe Ares
+# Equipe Ares
 Popularização da Fórmula E
 #descricao
 Este projeto visa popularizar a Fórmula E através de um site interativo e gamificado, que apresenta informações detalhadas sobre as corridas, circuitos, estatísticas, classificações, carros e oferece passeios virtuais.
-#integrantes
+# Integrantes
 
 
 RM:558638 Gabriel Guilherme Leste
-RM:555798 Glauco heitor Goncalves
+RM:555798 Glauco Heitor Gonçalves
 RM:556452 Otávio Santos Lima
 RM:554787 Victor Hugo de Paula
 
