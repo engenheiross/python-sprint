@@ -2,15 +2,14 @@
 
 # Equipe Ares
 Popularização da Fórmula E
-#descricao
+### Descrição
 Este projeto visa popularizar a Fórmula E através de um site interativo e gamificado, que apresenta informações detalhadas sobre as corridas, circuitos, estatísticas, classificações, carros e oferece passeios virtuais.
+
 # Integrantes
-
-
-RM:558638 Gabriel Guilherme Leste
-RM:555798 Glauco Heitor Gonçalves
-RM:556452 Otávio Santos Lima
-RM:554787 Victor Hugo de Paula
+- RM 558638 - Gabriel Guilherme Leste
+- RM 555798 - Glauco Heitor Gonçalves
+- RM 556452 - Otávio Santos Lima
+- RM 554787 - Victor Hugo de Paula
 
 
 Este repositório contém um script em Python para suportar funcionalidades interativas e gamificadas relacionadas ao site da Fórmula E.
